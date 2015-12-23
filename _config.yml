@@ -1,0 +1,28 @@
+name: tanzania
+favicon: null
+layout_spectrum: 0.8221083963289857
+typography_spectrum: 0.21859245304949582
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38091400684788823
+  lightness: 0.34078129287809134
+  saturation: 0.07930866139940917
+  rhythmicContrast: 0.1425864074844867
+purpose: []
