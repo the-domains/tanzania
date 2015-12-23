@@ -4,15 +4,8 @@
         <description><![CDATA[My climb to Kilimanjaro]]></description>
         <link>https://thegrid.ai/tanzania/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 02:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 02:20:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tanzania/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[National parks ride]]></title>
-            <description><![CDATA[<article><h1>National parks ride</h1><p>In September, I accompanied two clients from Switzerland, Reza and Nathalie on the newest SENE adventure, a multi-day walk in the Kilimanjaro foothills. This trip took 4 days walking from Mweka Village, just up the mountain from Moshi, to SENE’s Mbahe cottages, 46 kilometers by foot and many ridges and valleys to the west, along ancient Chagga footpaths threaded between the national park forest and local villages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12979388f121c488fba21a075617af3c42b19f55.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tanzania/national-parks-ride/index.html</link>
-            <guid isPermaLink="false">8218602b-6540-4661-bbb8-5d6e9def5d18</guid>
-            <pubDate>Wed, 23 Dec 2015 02:19:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kilimanjaro climb]]></title>
             <description><![CDATA[<article><h1>Kilimanjaro climb</h1><p>When people heard about my
@@ -23,10 +16,17 @@ I am afraid of heights.” Most people looked pretty confused after I told them 
 barely made it to the second level of the Eiffel Tower when I was eight years
 old or that my freshman year of college I couldn’t walk across the Golden Gate
 Bridge without two people as buffers to the outer edge, but now I was
-climbing the tallest mountain in Africa?</p></article>]]></description>
-            <link>https://app.thegrid.io/drafts</link>
+climbing the tallest mountain in Africa?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9df9ce4f0ca5bed330243e3b9c062c855f8138c7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tanzania/kilimanjaro-climb/index.html</link>
             <guid isPermaLink="false">4e2342f3-978b-4a29-b03a-54e1d2e26842</guid>
-            <pubDate>Wed, 23 Dec 2015 01:45:43 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 02:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National parks ride]]></title>
+            <description><![CDATA[<article><h1>National parks ride</h1><p>In September, I accompanied two clients from Switzerland, Reza and Nathalie on the newest SENE adventure, a multi-day walk in the Kilimanjaro foothills. This trip took 4 days walking from Mweka Village, just up the mountain from Moshi, to SENE’s Mbahe cottages, 46 kilometers by foot and many ridges and valleys to the west, along ancient Chagga footpaths threaded between the national park forest and local villages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12979388f121c488fba21a075617af3c42b19f55.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tanzania/national-parks-ride/index.html</link>
+            <guid isPermaLink="false">8218602b-6540-4661-bbb8-5d6e9def5d18</guid>
+            <pubDate>Wed, 23 Dec 2015 02:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
