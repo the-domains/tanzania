@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://app.thegrid.io/drafts'
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-23T01:45:43.359Z'
-dateModified: '2015-12-23T01:45:33.613Z'
+datePublished: '2015-12-23T02:19:55.684Z'
+dateModified: '2015-12-23T02:13:13.304Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: app.thegrid.io
   url: 'https://app.thegrid.io'
   favicon: 'https://app.thegrid.io/images/grid-logo-16.png'
+url: kilimanjaro-climb/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -60,3 +60,4 @@ toughness that will pay dividends not only when you're trying to climb a
 mountain, catch a spider in the house for your younger sister, or watch bats on
 the South Congress Bridge, but also when you have to make a presentation,
 confront people with issues, or carry out your own big decisions in life.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f46a8e3-b682-4cc1-ab6a-151065dd8fc0.jpg)
