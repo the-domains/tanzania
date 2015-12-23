@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T02:00:11.115Z'
-dateModified: '2015-12-23T02:00:00.861Z'
+datePublished: '2015-12-23T02:19:37.541Z'
+dateModified: '2015-12-23T02:15:28.948Z'
 title: National parks ride
 author: []
+sourcePath: _posts/2015-12-23-national-parks-ride.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-national-parks-ride.md
-published: true
 url: national-parks-ride/index.html
 _type: Article
 
@@ -33,3 +33,4 @@ Our guide was Manase Lyimo, whom many of you know as a SENE running guide and as
 We quickly discovered that we were as much of an interest to the many children we encountered as their environment was to us. Through them we discovered the local rural life.
 
 The bolder children would approach us and tentatively follow in our footsteps, walk with us and look at us with their big smiles. We could hear them giggling behind us as for them we speak and get dressed differently. Reza and Nathalie were always trying to engage them in conversation -- mixing English and pantomime -- to establish an interaction. Shyness and apprehension quickly melted away. The kids were always interested in our taking photos with them, but always with the promise to see the photos afterwards!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f19b7c7-525b-4cdd-8048-7685c0409c40.JPG)
